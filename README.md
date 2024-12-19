@@ -1,2 +1,2 @@
 # amazon-clone
-This repo consists of repo made by me using some tutorials
+This repo consists of clone made by me using some tutorials
